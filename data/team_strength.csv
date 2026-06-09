@@ -1,0 +1,49 @@
+team,hybrid_rating,fifa_points,national_elo,form_rating,squad_rating,squad_source
+Spain,1725.19,1853.27,1714.72,1563.34,1656.2,transfermarkt_or_curated
+France,1724.02,1859.78,1673.13,1556.26,1682.03,transfermarkt_or_curated
+England,1709.0,1813.81,1664.68,1558.28,1687.31,transfermarkt_or_curated
+Argentina,1705.3,1867.25,1642.31,1571.33,1636.39,transfermarkt_or_curated
+Portugal,1679.1,1756.12,1658.65,1545.08,1660.57,transfermarkt_or_curated
+Brazil,1670.32,1775.85,1593.71,1515.37,1675.47,transfermarkt_or_curated
+Netherlands,1664.18,1747.55,1640.28,1563.14,1631.8,transfermarkt_or_curated
+Belgium,1644.45,1740.62,1608.07,1561.24,1603.85,transfermarkt_or_curated
+Germany,1642.49,1703.79,1606.62,1541.8,1641.79,transfermarkt_or_curated
+Morocco,1624.98,1688.18,1674.25,1578.21,1536.37,transfermarkt_or_curated
+Croatia,1614.62,1691.59,1615.05,1557.9,1555.02,transfermarkt_or_curated
+Senegal,1600.71,1637.25,1655.22,1570.7,1529.25,transfermarkt_or_curated
+Japan,1594.28,1652.79,1637.78,1539.84,1517.45,transfermarkt_or_curated
+Uruguay,1592.94,1695.91,1559.65,1500.01,1546.05,transfermarkt_or_curated
+Colombia,1592.54,1694.44,1574.89,1516.78,1528.67,transfermarkt_or_curated
+United States,1586.16,1660.0,1572.94,1506.3,1548.01,transfermarkt_or_curated
+Austria,1575.66,1589.84,1595.88,1556.58,1551.0,transfermarkt_or_curated
+Switzerland,1574.68,1625.16,1571.64,1548.12,1534.97,transfermarkt_or_curated
+Mexico,1564.36,1627.4,1624.41,1513.34,1468.49,transfermarkt_or_curated
+Algeria,1547.5,1495.85,1643.4,1569.4,1514.39,transfermarkt_or_curated
+South Korea,1546.38,1530.0,1600.35,1510.91,1530.0,transfermarkt_or_curated
+Ukraine,1543.42,1554.94,1558.55,1494.84,1534.78,transfermarkt_or_curated
+Turkey,1542.59,1475.13,1615.57,1548.92,1548.77,transfermarkt_or_curated
+Norway,1542.49,1484.44,1604.97,1574.6,1539.75,transfermarkt_or_curated
+Panama,1531.35,1504.39,1598.37,1529.68,1504.39,transfermarkt_or_curated
+Egypt,1530.31,1513.48,1608.26,1525.82,1485.2,transfermarkt_or_curated
+Iran,1517.71,1550.0,1612.36,1518.89,1408.15,transfermarkt_or_curated
+Scotland,1512.79,1480.24,1534.35,1502.61,1531.02,transfermarkt_or_curated
+Ecuador,1510.39,1560.13,1560.26,1515.16,1418.62,transfermarkt_or_curated
+Czech Republic,1501.5,1502.9,1551.84,1528.64,1450.73,transfermarkt_or_curated
+Canada,1495.74,1515.96,1584.26,1532.05,1392.25,transfermarkt_or_curated
+Australia,1493.04,1544.15,1606.89,1541.0,1334.45,transfermarkt_or_curated
+Iraq,1488.05,1442.86,1579.93,1538.41,1442.86,transfermarkt_or_curated
+Qatar,1483.81,1474.6,1516.7,1457.24,1474.6,transfermarkt_or_curated
+Tunisia,1477.0,1464.42,1591.1,1518.19,1384.01,transfermarkt_or_curated
+Paraguay,1465.86,1458.26,1514.03,1499.46,1423.82,transfermarkt_or_curated
+Ghana,1455.27,1320.52,1525.82,1505.54,1516.97,transfermarkt_or_curated
+Uzbekistan,1455.19,1424.93,1597.4,1527.33,1347.38,transfermarkt_or_curated
+Saudi Arabia,1449.61,1406.56,1539.31,1491.94,1406.56,transfermarkt_or_curated
+South Africa,1440.8,1428.87,1562.72,1524.02,1327.66,transfermarkt_or_curated
+Jordan,1440.76,1375.91,1576.87,1501.92,1375.91,transfermarkt_or_curated
+Ivory Coast,1417.28,1320.0,1601.19,1561.7,1320.0,transfermarkt_or_curated
+DR Congo,1392.08,1140.0,1583.68,1548.96,1439.47,transfermarkt_or_curated
+Bosnia and Herzegovina,1387.77,1326.69,1483.45,1529.94,1326.69,transfermarkt_or_curated
+Haiti,1377.9,1287.75,1576.44,1479.54,1274.98,transfermarkt_or_curated
+Curacao,1365.84,1302.0,1500.0,1500.0,1278.74,transfermarkt_or_curated
+Cape Verde,1361.37,1190.0,1541.62,1523.72,1335.55,transfermarkt_or_curated
+New Zealand,1351.77,1193.98,1533.24,1478.25,1322.59,transfermarkt_or_curated

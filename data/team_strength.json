@@ -1,0 +1,386 @@
+{
+  "Mexico": {
+    "hybrid_rating": 1564.36,
+    "fifa_points": 1627.4,
+    "national_elo": 1624.41,
+    "form_rating": 1513.34,
+    "squad_rating": 1468.49,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "South Africa": {
+    "hybrid_rating": 1440.8,
+    "fifa_points": 1428.87,
+    "national_elo": 1562.72,
+    "form_rating": 1524.02,
+    "squad_rating": 1327.66,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "South Korea": {
+    "hybrid_rating": 1546.38,
+    "fifa_points": 1530.0,
+    "national_elo": 1600.35,
+    "form_rating": 1510.91,
+    "squad_rating": 1530.0,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Czech Republic": {
+    "hybrid_rating": 1501.5,
+    "fifa_points": 1502.9,
+    "national_elo": 1551.84,
+    "form_rating": 1528.64,
+    "squad_rating": 1450.73,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Canada": {
+    "hybrid_rating": 1495.74,
+    "fifa_points": 1515.96,
+    "national_elo": 1584.26,
+    "form_rating": 1532.05,
+    "squad_rating": 1392.25,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Qatar": {
+    "hybrid_rating": 1483.81,
+    "fifa_points": 1474.6,
+    "national_elo": 1516.7,
+    "form_rating": 1457.24,
+    "squad_rating": 1474.6,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Switzerland": {
+    "hybrid_rating": 1574.68,
+    "fifa_points": 1625.16,
+    "national_elo": 1571.64,
+    "form_rating": 1548.12,
+    "squad_rating": 1534.97,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Bosnia and Herzegovina": {
+    "hybrid_rating": 1387.77,
+    "fifa_points": 1326.69,
+    "national_elo": 1483.45,
+    "form_rating": 1529.94,
+    "squad_rating": 1326.69,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Brazil": {
+    "hybrid_rating": 1670.32,
+    "fifa_points": 1775.85,
+    "national_elo": 1593.71,
+    "form_rating": 1515.37,
+    "squad_rating": 1675.47,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Morocco": {
+    "hybrid_rating": 1624.98,
+    "fifa_points": 1688.18,
+    "national_elo": 1674.25,
+    "form_rating": 1578.21,
+    "squad_rating": 1536.37,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Haiti": {
+    "hybrid_rating": 1377.9,
+    "fifa_points": 1287.75,
+    "national_elo": 1576.44,
+    "form_rating": 1479.54,
+    "squad_rating": 1274.98,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Scotland": {
+    "hybrid_rating": 1512.79,
+    "fifa_points": 1480.24,
+    "national_elo": 1534.35,
+    "form_rating": 1502.61,
+    "squad_rating": 1531.02,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "United States": {
+    "hybrid_rating": 1586.16,
+    "fifa_points": 1660.0,
+    "national_elo": 1572.94,
+    "form_rating": 1506.3,
+    "squad_rating": 1548.01,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Paraguay": {
+    "hybrid_rating": 1465.86,
+    "fifa_points": 1458.26,
+    "national_elo": 1514.03,
+    "form_rating": 1499.46,
+    "squad_rating": 1423.82,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Australia": {
+    "hybrid_rating": 1493.04,
+    "fifa_points": 1544.15,
+    "national_elo": 1606.89,
+    "form_rating": 1541.0,
+    "squad_rating": 1334.45,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Turkey": {
+    "hybrid_rating": 1542.59,
+    "fifa_points": 1475.13,
+    "national_elo": 1615.57,
+    "form_rating": 1548.92,
+    "squad_rating": 1548.77,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Germany": {
+    "hybrid_rating": 1642.49,
+    "fifa_points": 1703.79,
+    "national_elo": 1606.62,
+    "form_rating": 1541.8,
+    "squad_rating": 1641.79,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Curacao": {
+    "hybrid_rating": 1365.84,
+    "fifa_points": 1302.0,
+    "national_elo": 1500.0,
+    "form_rating": 1500.0,
+    "squad_rating": 1278.74,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Ivory Coast": {
+    "hybrid_rating": 1417.28,
+    "fifa_points": 1320.0,
+    "national_elo": 1601.19,
+    "form_rating": 1561.7,
+    "squad_rating": 1320.0,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Ecuador": {
+    "hybrid_rating": 1510.39,
+    "fifa_points": 1560.13,
+    "national_elo": 1560.26,
+    "form_rating": 1515.16,
+    "squad_rating": 1418.62,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Netherlands": {
+    "hybrid_rating": 1664.18,
+    "fifa_points": 1747.55,
+    "national_elo": 1640.28,
+    "form_rating": 1563.14,
+    "squad_rating": 1631.8,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Japan": {
+    "hybrid_rating": 1594.28,
+    "fifa_points": 1652.79,
+    "national_elo": 1637.78,
+    "form_rating": 1539.84,
+    "squad_rating": 1517.45,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Tunisia": {
+    "hybrid_rating": 1477.0,
+    "fifa_points": 1464.42,
+    "national_elo": 1591.1,
+    "form_rating": 1518.19,
+    "squad_rating": 1384.01,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Ukraine": {
+    "hybrid_rating": 1543.42,
+    "fifa_points": 1554.94,
+    "national_elo": 1558.55,
+    "form_rating": 1494.84,
+    "squad_rating": 1534.78,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Belgium": {
+    "hybrid_rating": 1644.45,
+    "fifa_points": 1740.62,
+    "national_elo": 1608.07,
+    "form_rating": 1561.24,
+    "squad_rating": 1603.85,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Egypt": {
+    "hybrid_rating": 1530.31,
+    "fifa_points": 1513.48,
+    "national_elo": 1608.26,
+    "form_rating": 1525.82,
+    "squad_rating": 1485.2,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Iran": {
+    "hybrid_rating": 1517.71,
+    "fifa_points": 1550.0,
+    "national_elo": 1612.36,
+    "form_rating": 1518.89,
+    "squad_rating": 1408.15,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "New Zealand": {
+    "hybrid_rating": 1351.77,
+    "fifa_points": 1193.98,
+    "national_elo": 1533.24,
+    "form_rating": 1478.25,
+    "squad_rating": 1322.59,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Spain": {
+    "hybrid_rating": 1725.19,
+    "fifa_points": 1853.27,
+    "national_elo": 1714.72,
+    "form_rating": 1563.34,
+    "squad_rating": 1656.2,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Cape Verde": {
+    "hybrid_rating": 1361.37,
+    "fifa_points": 1190.0,
+    "national_elo": 1541.62,
+    "form_rating": 1523.72,
+    "squad_rating": 1335.55,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Saudi Arabia": {
+    "hybrid_rating": 1449.61,
+    "fifa_points": 1406.56,
+    "national_elo": 1539.31,
+    "form_rating": 1491.94,
+    "squad_rating": 1406.56,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Uruguay": {
+    "hybrid_rating": 1592.94,
+    "fifa_points": 1695.91,
+    "national_elo": 1559.65,
+    "form_rating": 1500.01,
+    "squad_rating": 1546.05,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "France": {
+    "hybrid_rating": 1724.02,
+    "fifa_points": 1859.78,
+    "national_elo": 1673.13,
+    "form_rating": 1556.26,
+    "squad_rating": 1682.03,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Senegal": {
+    "hybrid_rating": 1600.71,
+    "fifa_points": 1637.25,
+    "national_elo": 1655.22,
+    "form_rating": 1570.7,
+    "squad_rating": 1529.25,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Norway": {
+    "hybrid_rating": 1542.49,
+    "fifa_points": 1484.44,
+    "national_elo": 1604.97,
+    "form_rating": 1574.6,
+    "squad_rating": 1539.75,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Iraq": {
+    "hybrid_rating": 1488.05,
+    "fifa_points": 1442.86,
+    "national_elo": 1579.93,
+    "form_rating": 1538.41,
+    "squad_rating": 1442.86,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Argentina": {
+    "hybrid_rating": 1705.3,
+    "fifa_points": 1867.25,
+    "national_elo": 1642.31,
+    "form_rating": 1571.33,
+    "squad_rating": 1636.39,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Algeria": {
+    "hybrid_rating": 1547.5,
+    "fifa_points": 1495.85,
+    "national_elo": 1643.4,
+    "form_rating": 1569.4,
+    "squad_rating": 1514.39,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Austria": {
+    "hybrid_rating": 1575.66,
+    "fifa_points": 1589.84,
+    "national_elo": 1595.88,
+    "form_rating": 1556.58,
+    "squad_rating": 1551.0,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Jordan": {
+    "hybrid_rating": 1440.76,
+    "fifa_points": 1375.91,
+    "national_elo": 1576.87,
+    "form_rating": 1501.92,
+    "squad_rating": 1375.91,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Portugal": {
+    "hybrid_rating": 1679.1,
+    "fifa_points": 1756.12,
+    "national_elo": 1658.65,
+    "form_rating": 1545.08,
+    "squad_rating": 1660.57,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Uzbekistan": {
+    "hybrid_rating": 1455.19,
+    "fifa_points": 1424.93,
+    "national_elo": 1597.4,
+    "form_rating": 1527.33,
+    "squad_rating": 1347.38,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Colombia": {
+    "hybrid_rating": 1592.54,
+    "fifa_points": 1694.44,
+    "national_elo": 1574.89,
+    "form_rating": 1516.78,
+    "squad_rating": 1528.67,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "DR Congo": {
+    "hybrid_rating": 1392.08,
+    "fifa_points": 1140.0,
+    "national_elo": 1583.68,
+    "form_rating": 1548.96,
+    "squad_rating": 1439.47,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "England": {
+    "hybrid_rating": 1709.0,
+    "fifa_points": 1813.81,
+    "national_elo": 1664.68,
+    "form_rating": 1558.28,
+    "squad_rating": 1687.31,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Croatia": {
+    "hybrid_rating": 1614.62,
+    "fifa_points": 1691.59,
+    "national_elo": 1615.05,
+    "form_rating": 1557.9,
+    "squad_rating": 1555.02,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Ghana": {
+    "hybrid_rating": 1455.27,
+    "fifa_points": 1320.52,
+    "national_elo": 1525.82,
+    "form_rating": 1505.54,
+    "squad_rating": 1516.97,
+    "squad_source": "transfermarkt_or_curated"
+  },
+  "Panama": {
+    "hybrid_rating": 1531.35,
+    "fifa_points": 1504.39,
+    "national_elo": 1598.37,
+    "form_rating": 1529.68,
+    "squad_rating": 1504.39,
+    "squad_source": "transfermarkt_or_curated"
+  }
+}
